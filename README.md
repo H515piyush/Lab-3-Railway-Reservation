@@ -46,6 +46,10 @@ their tickets.
 ## Package:
 <img width="1920" height="1080" alt="Screenshot 2025-09-01 103556" src="https://github.com/user-attachments/assets/76e42915-ac70-4cd5-b97e-f9aca9f3ba36" />
 
+## ACTIVITY DIGRAM:
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-01 105826" src="https://github.com/user-attachments/assets/b943f84c-87fd-4bb0-8ccb-71ded52e05a3" />
+
 
 ### RESULT:
 
